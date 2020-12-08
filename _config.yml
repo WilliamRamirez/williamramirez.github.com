@@ -95,7 +95,7 @@ content:
             ● Strong object-oriented approach to programming with a focus on code-reuse, readability, and stability
             ● Added Continue Education courses into SAP HR Success factors via API and created job to insert data load daily.
 
- - title: Experience # Title for the section
+    - title: Experience2 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
