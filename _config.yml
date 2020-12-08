@@ -66,8 +66,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest projects ever worked, From Sharepoint on-premises to Sharepoint Online.
+        quote: This is probably one of the greatest projects ever worked, From Sharepoint on-premises to Sharepoint Online.
         description: | # this will include new lines to allow paragraphs
           Migrating the content from on-premises to production. Created and configured service applications. Configured the enterprise search and administrating the search service application.
   
