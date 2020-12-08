@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Web developer with 3+ years of experience developing and supporting .Net web-based applications and vb.net webforms. SharePoint Online Administrator and SQL Server Reporting Services (SSRS) report writer and SQL Server Integration Services(SSIS) support and monitoring. I am driven individual with the ability to adapt to any situation and prove potential to learn the business and improve processes.
   I am most skilled in: <mark>Microsoft 365</mark> and <mark>.Net</mark>
 
-content:  
+content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
