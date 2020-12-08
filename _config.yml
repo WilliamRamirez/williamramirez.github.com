@@ -69,8 +69,7 @@ content:
         quote: This is probably one of the greatest projects ever worked, From Sharepoint on-premises to Sharepoint Online.
         description: | # this will include new lines to allow paragraphs
           Migrating the content from on-premises to production. Created and configured service applications. Configured the enterprise search and administrating the search service application.
-  
-  - title: Experience # Title for the section
+    - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -94,9 +93,6 @@ content:
             ● Code, debug, test, and implement solutions in .NET environments using Visual Studio and related tools
             ● Strong object-oriented approach to programming with a focus on code-reuse, readability, and stability
             ● Added Continue Education courses into SAP HR Success factors via API and created job to insert data load daily.
-
-    - title: Experience2 # Title for the section
-    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Royal Credit Union
@@ -111,8 +107,7 @@ content:
            ● Developed C# console application to generate a report that connects to ORACLE Database weekly and notify end users via email.
            ● Worked on migrating intranet Member Statements Web application and added Log4net to add audit trail functionality.
            ● Working with various business units and analyzing all business requirements. To create query based in business requirements.
-           ● Wrote reports using SQL and automate process to send reports via email.
-           
+           ● Wrote reports using SQL and automate process to send reports via email.     
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
