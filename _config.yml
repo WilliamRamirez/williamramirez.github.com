@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
       - layout: top-middle
         title: Sharepoint Migrations
         #link: github.com/sproogen
@@ -69,6 +68,7 @@ content:
           This is probably one of the greatest projects ever worked, From Sharepoint on-premises to Sharepoint Online.
         description: | # this will include new lines to allow paragraphs
           Migrating the content from on-premises to production. Created and configured service applications. Configured the enterprise search and administrating the search service application.
+  Content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
