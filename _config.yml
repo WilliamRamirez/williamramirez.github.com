@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: William Ramirez
+title: Sharepoint Engineer
+email: williammerlin@hotmail.com
+website: www.github.com/williammerlin/williamramirez.github.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: willmx
+github_username:  WilliamRamirez
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: williamramirezsr
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#######additional_links:
+#- title: itsgoingto.be
+ # icon: fas fa-globe
+  #######url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,17 +48,19 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Web developer with 3+ years of experience developing and supporting .Net web-based applications and vb.net webforms.
+SharePoint Online Administrator and SQL Server Reporting Services (SSRS) report writer and SQL Server Integration Services
+(SSIS) support and monitoring. I am driven individual with the ability to adapt to any situation and prove potential to learn the
+business and improve processes.
+  I am most skilled in: <mark>Microsoft 365</mark> and <mark>.Net</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Sharepoint Migrations
+        #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,31 +70,40 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably one of the greatest projects ever worked, From Sharepoint on-premises to Sharepoint Online.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Migrating the content from on-premises to production. Created and configured service applications. Configured the enterprise search and administrating the search service application.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: National Business Institute
+        link: www.nbi-sems.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Programmer Analyst/SharePoint Administrator
+        caption: July 2018 - September 2020
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            ● Created, configured, and administered SharePoint sites and user permission rights and trained users. Supporting daily
+            operation and troubleshooting to solve technology issues.
+            ● Repaired and solved critical production problems with a mix of debugging and replicating issue in development.
+            ● Generated various Monthly, Quarterly, Bi-Yearly, Yearly reports by different type of reports using SSRS. Automated report
+            delivery via email.
+            ● Added Continue Education courses into SAP HR Success factors via API and created job to insert data load daily.
+            ● Code several pages during site migration and recently. I created career opportunities page in company website that helped
+            human resources recruitment, and the ability to create job postings and applicants to upload resumes and cover letters.
+            ● Migrated Legacy ASP intranet application to MVC 4.5 and added new functionality to improve business processes.
+            ● Code, debug, test, and implement solutions in .NET environments using Visual Studio and related tools
+            ● Strong object-oriented approach to programming with a focus on code-reuse, readability, and stability
+            ● Added Continue Education courses into SAP HR Success factors via API and created job to insert data load daily.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Chippewa Valley Tecnical College
+        caption: 2016 - 2018
+        sub_title: Software Developer
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -104,13 +115,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Reading
+      - Mounting computer hardware
+      - Playing software
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    #this  
+   #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
