@@ -94,8 +94,10 @@ content:
             ● Strong object-oriented approach to programming with a focus on code-reuse, readability, and stability
             ● Added Continue Education courses into SAP HR Success factors via API and created job to insert data load daily.
 
-  content: |
-- layout: left
+ - title: #Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: Royal Credit Union
         link: www.rcu.org
         # link_text: boringcompany.com
