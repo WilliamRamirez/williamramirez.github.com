@@ -94,6 +94,21 @@ content:
             ● Code, debug, test, and implement solutions in .NET environments using Visual Studio and related tools
             ● Strong object-oriented approach to programming with a focus on code-reuse, readability, and stability
             ● Added Continue Education courses into SAP HR Success factors via API and created job to insert data load daily.
+  content:
+      - layout: left
+        title: Royal Credit Union
+        link: www.rcu.org
+        # link_text: boringcompany.com
+        sub_title: Programmer Analyst Intern
+        caption: July 2017 - May 2015
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+           ● Analyzing data, retrieving information from ORACLE, maintaining SQR reports.
+           ● Developed C# console application to generate a report that connects to ORACLE Database weekly and notify end users via email.
+           ● Worked on migrating intranet Member Statements Web application and added Log4net to add audit trail functionality.
+           ● Working with various business units and analyzing all business requirements. To create query based in business requirements.
+           ● Wrote reports using SQL and automate process to send reports via email.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -105,7 +120,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at CVTC I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
